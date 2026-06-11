@@ -1,0 +1,41 @@
+customer_id,company_name,contact_name,email,country,postal_code,industry,annual_revenue_eur,last_contact_date,account_status
+C-1001,Schneider Pharma GmbH,Anna Weber,anna.weber@schneiderpharma.de,Germany,50667,Pharmaceuticals,4500000,2024-11-18,Active
+C-1002,MüllerTech AG,Lukas Müller,lukas.mueller@muellertech.de,DE,80333,Engineering,12800000,2024-09-22,Active
+C-1003,Velkommen A/S,Freja Andersen,freja@velkommen.dk,Denmark,1050,Retail,2300000,2022-03-04,Active
+C-1004,SAP SE,Martin Bauer,martin.bauer@sap.com,Germany,69190,Software,41000000000,2025-02-11,Active
+C-1005,Orion Logistik GmbH,Katrin Schmidt,katrin.schmidt@orion-logistik.de,Germany,20095,Logistics,6700000,2024-10-05,Active
+C-1006,Bella Moda S.r.l.,Giulia Romano,,Italy,00184,Retail,3200000,2024-12-01,Active
+C-1007,Helix BioWorks,Dr. Elena Ivanova,elena.ivanova@helix-bioworks.ch,Switzerland,8050,Retail,9400000,2025-01-07,Active
+C-1008,Nordlicht Energie GmbH,Jonas Fischer,jonas.fischer@nordlicht-energie.de,Deutschland,30159,Energy,18000000,2024-08-14,Active
+C-1009,CoralTech Ltd,Richard Taylor,richard.taylortcoraltech.co.uk,United Kingdom,EC1A 1BB,Technology,5100000,2024-11-30,Active
+C-1010,SAP AG,M. Bauer,martin.bauer@sap.com,DE,69190,software,41000000000,2024-06-18,Active
+C-1011,Zahlwerk GmbH,Felix Koch,felix.koch@zahlwerk.de,Germany,10178,Financial Services,-850000,2025-01-29,Active
+C-1012,Hansa Handel e.K.,Birgit Lange,birgit.lange@hansa-handel.de,Germany,22767,retail,1900000,2024-12-15,Active
+C-1013,GallicaVin SA,Henri Moreau,henri@gallicavin.fr,France,75001,Wine & Spirits,2800000,2025-02-02,Active
+C-1014,,Maria Popescu,maria.popescu@transylvania-foods.ro,Romania,010001,Food & Beverage,1100000,2025-01-20,Active
+C-1015,Adriatic Ports d.o.o.,Ivo Horvat,ivo.horvat@adriatic-ports.hr,Croatia,21000,Logistics,4600000,2024-07-11,Active
+C-1016,Pixelgrab,Amit Sharma,amit@pixelgrab.io,Germany,50674,Technology,380000,2024-11-04,Active
+C-1017,Thüringer Werke GmbH,Heike Krause,heike.krause@thueringer-werke.de,DE,99084,Manufacturing,8900000,2021-05-22,Active
+C-1018,Luxembourg Analytics,Sophie Dupont,sophie.dupont@lux-analytics.lu,Luxembourg,L-1855,Consulting,6200000,2024-10-12,Active
+C-1019,Bella Moda Srl,Giulia Romano,giulia.romano@bellamoda.it,Italy,00184,Retail,3200000,2025-01-15,Active
+C-1020,Kranich Capital GmbH,Dr. Thomas Becker,thomas.becker@kranich-capital.de,Germany,60311,Financial Services,22000000,2025-02-08,Active
+C-1021,Bouvier Médicaux SARL,Claire Bouvier,claire.bouvier@bouvier-med.fr,France,69002,Medical Devices,1800000,2024-09-30,Active
+C-1022,Zentrum Verlag AG,Stefan Hoffmann,stefan.hoffmann@zentrum-verlag.de,Germany,70173,Publishing,4100000,2024-08-28,Active
+C-1023,Nordlicht Energie,Jonas Fischer,j.fischer@nordlicht-energie.de,Germany,30159,Energy,18000000,2025-02-12,Active
+C-1024,Aachener Kühltechnik,Markus Wolf,markus.wolf@aachener-kuehl.de,Germany,AB123,Manufacturing,3400000,2024-12-19,Active
+C-1025,PolyOmics Research,Dr. Jakub Kowalski,jakub.kowalski@polyomics.pl,Poland,00-682,Pharmaceuticals,2400000,2024-11-22,Active
+C-1026,Fjärilshus AB,Linnea Lindqvist,linnea@fjarilshus.se,Sweden,11122,Retail,920000,2024-10-18,Active
+C-1027,Baltic Software OÜ,Mart Tamm,mart.tamm@balticsoftware.ee,Estonia,10111,Software,1650000,2024-12-08,Active
+,Porto Atlântico Lda,João Santos,joao.santos@porto-atlantico.pt,Portugal,4050,Shipping,7300000,2024-09-17,Active
+C-1029,Rheinland Versicherung,Petra Zimmermann,petra.zimmermann@rheinland-vers.de,Germany,50667,Insurance,180000000,2024-11-25,Active
+C-1030,Technobloom GmbH,Julia Meyer,julia.meyer@technobloom.de,Germany,50679,Energy,2700000,2024-12-30,Active
+C-1031,Meridian BioPharma,Dr. Anja Weiss,anja.weiss@meridian-biopharma.de,Germany,14195,Retail,8200000,2024-10-28,Active
+C-1032,Brücke & Partner GmbH,Rainer Hartmann,rainer.hartmann@bruecke-partner.de,Germany,40213,Consulting,5500000,2022-11-03,Active
+C-1033,Zeus Shipping Ltd,Dimitris Papadopoulos,dimitris@zeus-shipping.gr,Greece,18534,Shipping,4200000,2025-02-06,Active
+C-1034,Helvetia Präzision AG,Ueli Berger,ueli.berger@helvetia-praezision.ch,Switzerland,8045,Manufacturing,11500000,2024-11-14,Active
+C-1035,Kauf & Genuss OHG,Monika Schulz,monika.schulz@kaufundgenuss.de,Germany,80331,Retail,790000,2024-10-31,Active
+C-1036,Digital Werkstatt,Jan Neumann,jan.neumann@digital-werkstatt.de,Germany,10115,Technology,-120000,2025-01-10,Active
+C-1037,Atlas Fulfillment,Nadia Abboud,nadia.abboud@atlas-fulfillment,Germany,04109,Logistics,3900000,2024-12-22,Active
+C-1038,Bonn Medtech GmbH,Dr. Wolfgang Braun,wolfgang.braun@bonn-medtech.de,Germany,53111,Medical Devices,6100000,2025-01-18,Active
+C-1039,NordSpree Marketing,Sara Jensen,sara.jensen@nordspree.de,Germany,10117,Marketing,1400000,2024-09-05,Active
+C-1040,Vineyard42,R. Schulz,r.schulz@vineyard42.at,Austria,1010,Wine & Spirits,640000,2025-02-01,Active
